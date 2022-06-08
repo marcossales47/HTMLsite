@@ -1,4 +1,4 @@
-# Pizzas-HTMLsite
+#HTMLsite
 ### Olá !
 Aqui se encontra um pequeno template de um cardápio de pizzas.
 - Foi usado HTML, Javascript e CSS !
